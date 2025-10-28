@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/laravingo/.github/blob/main/assets/laravingo-logo-horizontal.svg" alt="Laravingo" width="300" />
+  <img src="https://github.com/laravingo/.github/blob/main/assets/laraving-logo-horizontal-transparent-1920x720.svg" alt="Laravingo" width="400" />
   <br>
   <br>
   🧠 Laravingo
