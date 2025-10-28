@@ -26,7 +26,7 @@
 **Laravingo** is a modern, innovation-driven software company dedicated to building **next-generation Laravel solutions**.  
 We combine **AI-driven insights**, **developer experience**, and **modern design** to create tools that make web development faster, simpler, and smarter.
 
-> “Smart software, one line at a time.” 💡
+> “Smart software, one line at a time.”
 
 Our focus is on **clarity, maintainability, and long-term scalability**, ensuring that every line of code we write delivers both performance and elegance.
 
@@ -74,7 +74,7 @@ Laravingo is more than a codebase — it’s a growing ecosystem of developer to
 - **Laravingo Notifier** → Real-time notifications using Pusher & Beams.  
 - **Laravingo Analytics** → Enterprise-level analytics and monitoring for Laravel.  
 
-Each project is **modular**, **open-source**, and designed to integrate with others — forming the **Laravingo Developer Stack** 🔥  
+Each project is **modular**, **open-source**, and designed to integrate with others — forming the **Laravingo Developer Stack**  
 
 ---
 
@@ -131,14 +131,14 @@ We take pride in keeping our culture transparent and human-centered:
 
 ## Fun Zone
 
-We believe great software is written by happy developers 😄
+We believe great software is written by happy developers
 
 | Fact | Status |
 |------|--------|
 | Coffee Consumed | 9999+ cups (and counting) |
 | Commits per day | Depends on caffeine level |
 | New ideas per week | More than we can ship |
-| Favorite Framework | Laravel ❤️ |
+| Favorite Framework | Laravel |
 
 ---
 
@@ -169,5 +169,5 @@ If you share our love for Laravel and innovation, let’s connect:
 </p>
 
 <p align="center">
-  <strong>Laravingo © 2025</strong> — Building Smarter Software, One Line at a Time ⚡
+  <strong>Laravingo © 2025</strong> — Building Smarter Software, One Line at a Time
 </p>
